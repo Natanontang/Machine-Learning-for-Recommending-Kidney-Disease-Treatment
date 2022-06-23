@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 # .gitattributes file which reclassifies `.js` files as Java:
-*.mlx linguist-language=MATLAB
+*.mlx linguist-language=matlab
