@@ -1,0 +1,1 @@
+หมายเหตุ: ทําการ Fine-tune model แล้ว save weight กับ setting เอาไว้เพื่อใช้ในการเปรียบเทียบผล

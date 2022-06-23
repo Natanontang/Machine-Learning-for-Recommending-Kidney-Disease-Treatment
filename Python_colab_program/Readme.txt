@@ -1,0 +1,1 @@
+หมายเหตุ: หลังจาก Run Main Program ที่ 4 ใน MATLAB เสร็จจะนํามา Train Test Split บท Python เเล้วจึงค่อยนําผลลัพธ์ที่ได้ไปใช้ต่อใน RBM MATLAB

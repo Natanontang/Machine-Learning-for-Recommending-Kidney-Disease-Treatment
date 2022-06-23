@@ -1,0 +1,1 @@
+หมายเหตุ: ใช้ในการ Analyze Dataset เบื้องต้นเพื่อตัดสินใจทํา Main Program
